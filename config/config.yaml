@@ -1,5 +1,0 @@
-bot:
-  token: "7175091561:AAEQJluXAazfGd06-doMYq_qiPvahREBmkg"
-  timeout: 600s
-  owner_id: 746446622
-env: "local"
